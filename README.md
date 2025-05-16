@@ -19,9 +19,3 @@ Data Analysis: Analyze the cleaned data to extract meaningful insights.
 Visualization: Create visual representations of the data using graphs and charts.
 Reporting: Generate reports that highlight key findings and predictions for future customer behavior.
 
-## Getting Started
-### Prerequisites
-Python 3.x
-
-Libraries: pandas, numpy, matplotlib, seaborn
-
